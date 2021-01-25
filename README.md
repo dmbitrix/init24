@@ -1,1 +1,3 @@
-# init24
+# init
+
+Initial Bitrix package
